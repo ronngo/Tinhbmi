@@ -1,0 +1,13 @@
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\bin\Debug\netcoreapp3.1\TinhBMI1.exe
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\bin\Debug\netcoreapp3.1\TinhBMI1.deps.json
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\bin\Debug\netcoreapp3.1\TinhBMI1.runtimeconfig.json
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\bin\Debug\netcoreapp3.1\TinhBMI1.runtimeconfig.dev.json
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\bin\Debug\netcoreapp3.1\TinhBMI1.dll
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\bin\Debug\netcoreapp3.1\TinhBMI1.pdb
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\obj\Debug\netcoreapp3.1\TinhBMI1.csprojAssemblyReference.cache
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\obj\Debug\netcoreapp3.1\TinhBMI1.AssemblyInfoInputs.cache
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\obj\Debug\netcoreapp3.1\TinhBMI1.AssemblyInfo.cs
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\obj\Debug\netcoreapp3.1\TinhBMI1.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\obj\Debug\netcoreapp3.1\TinhBMI1.dll
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\obj\Debug\netcoreapp3.1\TinhBMI1.pdb
+C:\Users\ronng\source\repos\TinhBMI1\TinhBMI1\obj\Debug\netcoreapp3.1\TinhBMI1.genruntimeconfig.cache
